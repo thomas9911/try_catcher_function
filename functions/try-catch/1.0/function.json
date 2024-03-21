@@ -1,0 +1,19 @@
+{
+  "description": "Change the way the flow executes",
+  "label": "Try Catch",
+  "category": "Flow",
+  "icon": {
+    "name": "ConditionIcon",
+    "color": "Yellow"
+  },
+  "options": [
+    {
+      "label": "Exception Action",
+      "name": "exceptionAction",
+      "meta": {
+        "type": "Action"
+      }
+    }
+  ],
+  "yields": "ALL"
+}
